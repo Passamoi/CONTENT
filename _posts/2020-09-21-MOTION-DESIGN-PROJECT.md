@@ -30,3 +30,9 @@ _Detournement du logo playstation_
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cMeD60prl9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
+<div align="center">
+<blockquote class="reddit-card" data-card-created="1605989954"><a href="https://www.reddit.com/user/GUCCIGAMINGCLUB/comments/jxmyqq/test/">test</a> from <a href="http://www.reddit.com/u/GUCCIGAMINGCLUB">u/GUCCIGAMINGCLUB</a></blockquote>
+<script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
+</div>
+
